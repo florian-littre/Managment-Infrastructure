@@ -1,10 +1,14 @@
-Il y a eu 3 ticket GLPI.
+Q1. Il y a eu 3 ticket GLPI.
 
-Il a fait un backup des données.
+Q2. Il a fait un backup des données.
 
+Q3. 
 Ligne 1 : création d'une base de donées glpi 
 Ligne 2 : création d'un utilisateur 
 Ligne 3 : Attribution des privilèges 
 Ligne 4 : Recharger les droit d'accès
 Ligne 5 : Sortir du terminal
 
+Q4. 
+1. indique que le script doit être exécuter en bash
+2.
