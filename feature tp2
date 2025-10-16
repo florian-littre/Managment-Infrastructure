@@ -1,1 +1,10 @@
+Il y a eu 3 ticket GLPI.
+
+Il a fait un backup des données.
+
+Ligne 1 : création d'une base de donées glpi 
+Ligne 2 : création d'un utilisateur 
+Ligne 3 : Attribution des privilèges 
+Ligne 4 : Recharger les droit d'accès
+Ligne 5 : Sortir du terminal
 
