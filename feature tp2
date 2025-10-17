@@ -11,4 +11,9 @@ Ligne 5 : Sortir du terminal
 
 Q4. 
 1. indique que le script doit être exécuter en bash
-2.
+2. Active des options de sécurité pour éviter les erreurs silencieuses 
+3. Définit l’Internal Field Separator
+4. Définit la variable WORKING_DIR avec le chemin absolu du dossier contenant le script.
+
+
+
